@@ -12,13 +12,13 @@ Learn more about us at https://100roadsdesign.com.
 
 ## About the map
 
-There are three virtual campuses in this repository.
+There are two virtual campuses in this repository.
 
 ![map](readme/spiritual-cave-readme.png)
 
 Map name: Spiritual Cave.
 
-![map](readme/ccrystal-palace-readme.png)
+![map](readme/crystal-palace-readme.png)
 
 Map name: Crystal Palace.
 
